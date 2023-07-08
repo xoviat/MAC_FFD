@@ -1,0 +1,6 @@
+makefile
+*.mk
+*.launch
+.settings
+Debug
+Release
